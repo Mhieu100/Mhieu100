@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 
 
 <a href="https://app.daily.dev/mhieu100"><img src="https://api.daily.dev/devcards/2365da53ae554e2791f94366acde978e.png?r=s5j" width="400" alt="Nguyen Hieu's Dev Card"/></a>
+
+<br/>
+
+<a href="https://cloud.appwrite.io/card/64513baa310796428b9e">
+	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=64513baa310796428b9e" alt="Appwrite Cloud Card" />
+</a>
