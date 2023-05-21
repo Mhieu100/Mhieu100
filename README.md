@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<a href="https://cloud.appwrite.io/card/64513baa310796428b9e">
+<!-- <a href="https://cloud.appwrite.io/card/64513baa310796428b9e">
 	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=64513baa310796428b9e" alt="Appwrite Cloud Card" />
 </a>
+ -->
