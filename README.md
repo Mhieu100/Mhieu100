@@ -24,6 +24,13 @@
        alt="snake" /></a>
 </div>
 
+<div align="center">
+  
+![mhieu100's Stats](https://github-readme-stats.vercel.app/api?username=mhieu100&theme=onedark&show_icons=true&hide_border=false&count_private=true)
+![mhieu100's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhieu100&theme=onedark&show_icons=true&hide_border=false&layout=compact)
+
+</div>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
@@ -47,6 +54,7 @@
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>  
 </p>
+
+
