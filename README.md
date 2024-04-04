@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">Hi 👋, I'm MHieu100</h1>
-<h3 align="center">A passionate frontend developer from VietNam &#127470;&#127475</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
