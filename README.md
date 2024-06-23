@@ -10,16 +10,7 @@
 
 - 🔭 I’m currently studying in VKU
 
-- 🌱 I’m currently Working on Web App(ReactJS)
-
-- 💬 Ask me about **Reactjs**
-
 - 📫 How to reach me **hieunguyen201103@gmail.com**
-
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 <div align="center">
   
