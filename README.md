@@ -7,15 +7,14 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently studying in VKU
 
-- 📫 How to reach me **hieunguyen201103@gmail.com**
 
 <div align="center">
-  
-![mhieu100's Stats](https://github-readme-stats.vercel.app/api?username=mhieu100&theme=onedark&show_icons=true&hide_border=false&count_private=true)
-![mhieu100's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhieu100&theme=onedark&show_icons=true&hide_border=false&layout=compact)
 
+- 🔭 I’m currently studying in VKU
+- 📫 How to reach me **hieunguyen201103@gmail.com**
+  
+![mhieu100's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhieu100&theme=onedark&show_icons=true&hide_border=false&layout=compact)
 </div>
 
 
